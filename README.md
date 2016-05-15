@@ -1,3 +1,10 @@
+#Table of Contents
+
+1. README.md = Explains the analysis files in the *gettingandcleaningdata* repository. Contains a description of the project and requirements.
+2. CodeBook.md = Explains the variables and summaries calculated, along with units, and other relevant information pertaining to the raw and tidy data sets.
+3. run_analysis.r = R script which transforms the raw Samsung data set into a tidy data set.
+4. tidy.txt = The tidy data set, which is the output from the run_analysis.r script.
+
 #Getting and Cleaning Data Course Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
@@ -38,5 +45,7 @@ You should create one R script called run_analysis.R that does the following.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each 
-   subject.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+

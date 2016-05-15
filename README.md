@@ -1,7 +1,7 @@
 #Table of Contents
 
 1. README.md = Explains the analysis files in the *gettingandcleaningdata* repository. Contains a description of the project and requirements.
-2. CodeBook.md = Explains the variables and summaries calculated, along with units, and other relevant information pertaining to the raw and tidy data sets.
+2. CodeBook.md = Explains the variables and summaries calculated, along with units, and other relevant information pertaining to the raw and tidy data sets. Also contains the study design and an instruction list.
 3. run_analysis.r = R script which transforms the raw Samsung data set into a tidy data set.
 4. tidy.txt = The tidy data set, which is the output from the run_analysis.r script.
 
